@@ -75,7 +75,8 @@ All files are moved
 | ----------- | ----------- |
 | 1.0.0     | Day0 version.        |
 
-### Contribution
+### Feedback
 
+Star this repo if you like it. <br />
 Feel free to submit issues or pull requests.<br />
 Thanks.
