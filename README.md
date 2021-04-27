@@ -14,7 +14,7 @@
 ### 使用说明
 
 #### 准备工作
-1. 下载最新版本[可执行文件](releases)
+1. 下载最新版本[可执行文件](https://github.com/Bakabase/AzurLane/releases)
    1. [可选]如果需要获取app内部更新的资源，请下载[Adb](https://developer.android.com/studio/releases/platform-tools#downloads)
 2. 复制`/samples`下的脚本到本地
 3. 根据你自己的环境修改脚本内的参数

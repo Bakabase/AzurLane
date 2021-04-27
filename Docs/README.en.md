@@ -12,7 +12,7 @@ Tools for azurlane
 
 #### Setup
 
-1. Download latest binary file from [releases](../../../releases).
+1. Download latest binary file from [releases](https://github.com/Bakabase/AzurLane/releases).
    1. [optional] Download [Adb](https://developer.android.com/studio/releases/platform-tools#downloads) binary file if you want to use assets downloaded at first launch of the game.
 2. Copy scripts in /samples to local.
 3. Adjust arguments in scripts according to your environment.
