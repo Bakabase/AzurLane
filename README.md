@@ -1,6 +1,6 @@
 中文 | [English](./Docs/README.en.md)
 
-[![CI](https://github.com/Bakabase/AzurLane/actions/workflows/build.yml/badge.svg)](https://github.com/Bakabase/AzurLane/actions/workflows/build.yml)
+[![Release](https://github.com/Bakabase/AzurLane/actions/workflows/publish.yml/badge.svg)](https://github.com/Bakabase/AzurLane/actions/workflows/publish.yml)
 
 # AzurLane
 
