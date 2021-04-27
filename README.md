@@ -5,6 +5,8 @@
 # AzurLane
 
 碧蓝航线工具包/Tools for azurlane
+<br />
+仅供个人技术研究使用，请勿随意传播或用于商业用途，谢谢
 
 + [AzurLane.Extractor](#AzurLaneExtractor)
   + 导出立绘/Export paintings

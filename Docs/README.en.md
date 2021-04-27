@@ -2,6 +2,8 @@
 # AzurLane
 
 Tools for azurlane
+<br />
+For personal use only in study and research. Not for commercial use.
 
 + [AzurLane.Extractor](#AzurLaneExtractor)
   + Export paintings
